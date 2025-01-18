@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Altan Bozkuş! 👋
 
-<!--
-**Altaaan4/Altaaan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I graduated in Computer Programming.
+-Currently, I am taking courses on frontend, backend, and mobile development at Udemig.
+-As a result of the courses I’ve taken, I will be sharing the projects I’ve worked on.
+-If anyone wants information about my projects, they can reach me using the contact details below. Stay tuned...
 
-Here are some ideas to get you started:
+##Technologies I'm Using 💻
+-Node.js
+-JavaScript
+-React Native
+-HTML5
+-CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Areas of Work 🌍
+-iOS Development
+-Android Development
+-Front-end Development
+-Back-end Development
+
+##Contact 📫
+-LinkedIn: www.linkedin.com/in/altan-bozkuş-48bb8b272
+-Email: altanbzk1@gmail.com
