@@ -1,8 +1,11 @@
 Hi, I'm Altan Bozkuş! 👋
 <br>
 -I graduated in Computer Programming.
+<br>
 -Currently, I am taking courses on frontend, backend, and mobile development at Udemig.
+<br>
 -As a result of the courses I’ve taken, I will be sharing the projects I’ve worked on.
+<br>
 -If anyone wants information about my projects, they can reach me using the contact details below. Stay tuned...
 <br>
 ##Technologies I'm Using 💻
