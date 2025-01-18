@@ -32,6 +32,7 @@ Hi, I'm Altan Bozkuş! 👋
 <br>
 -Back-end Development
 <br>
+
 ##Contact 📫
 <br>
 -LinkedIn: www.linkedin.com/in/altan-bozkuş-48bb8b272
