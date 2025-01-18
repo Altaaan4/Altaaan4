@@ -35,6 +35,6 @@ Hi, I'm Altan Bozkuş! 👋
 
 ##Contact 📫
 <br>
--LinkedIn: www.linkedin.com/in/altan-bozkuş-48bb8b272
+-LinkedIn: www.linkedin.com/in/altaaan4
 <br>
 -Email: altanbzk1@gmail.com
