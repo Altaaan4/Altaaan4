@@ -8,13 +8,19 @@ Hi, I'm Altan Bozkuş! 👋
 <br>
 -If anyone wants information about my projects, they can reach me using the contact details below. Stay tuned...
 <br>
-##Technologies I'm Using 💻
--Node.js
--JavaScript
--React Native
--HTML5
--CSS3
 
+##Technologies I'm Using 💻
+<br>
+-Node.js
+<br>
+-JavaScript
+<br>
+-React Native
+<br>
+-HTML5
+<br>
+-CSS3
+<br>
 ##Areas of Work 🌍
 <br>
 -iOS Development
