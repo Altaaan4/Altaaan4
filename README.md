@@ -20,4 +20,5 @@ Hi, I'm Altan Bozkuş! 👋
 
 ##Contact 📫
 -LinkedIn: www.linkedin.com/in/altan-bozkuş-48bb8b272
+<br>
 -Email: altanbzk1@gmail.com
