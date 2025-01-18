@@ -21,6 +21,7 @@ Hi, I'm Altan Bozkuş! 👋
 <br>
 -CSS3
 <br>
+
 ##Areas of Work 🌍
 <br>
 -iOS Development
